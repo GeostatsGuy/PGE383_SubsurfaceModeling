@@ -7,15 +7,29 @@
 
 #### Join Us
 
-During the term I will record the lectures and place them on youtube.
+Come and join us as we learn more about subsurface data analytics, modeling and statistical / machine learning. 
 
-[Course Lectures on YouTube](https://www.youtube.com/watch?v=0g1g3gtHYSE&list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
+* The Lectures: During the term I will record the lectures and place them on youtube.
 
-I will also place the course hands on demos in this repository:
+* The project: There is an dataset for you to work with, or use your own.
 
-[Coure Workflows and Demonstrations GitHub](https://github.com/GeostatsGuy)
+* Updates: check out our project updates as we work through this term-long subsurface modeling project.
+
+* Opensource: work in Jupyter Notebook with workflow development in Python.
+
+* GeostatsPy: GSLIB functionality in Python for great experiential learning.
+
+* Professional: class is conducted like a subsurface asset team with myself as the subsurface asset team lead. Practice professional communication, oral and written reporting.
+
+Here's how you get started:
+
+* [Course Lectures on YouTube](https://www.youtube.com/watch?v=0g1g3gtHYSE&list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
+
+I will also place the course hands-on demos in this repository:
+
+* [Coure Workflows and Demonstrations GitHub](https://github.com/GeostatsGuy)
  
-The links are provided in the lecture videos. The workflows will come from my PythonNumericalDemos and ExcelNumericalDemos repositories.
+The Python Jupyter workflow links are provided in the lecture videos. The workflows will come from my PythonNumericalDemos and ExcelNumericalDemos repositories.
 
 An example dataset, similar to the ones provided to the project teams is available in this repository.
 
