@@ -24,7 +24,7 @@ Come and join us as we learn more about subsurface data analytics, modeling and 
 
 #### Getting Started
 
-Here's how you get started?  Here's the resources begin your journey.
+To get started, check out these course resources and begin your journey.
 
 * **The Recorded Lectures** are available at [Course Lectures on YouTube](https://www.youtube.com/watch?v=0g1g3gtHYSE&list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
 
