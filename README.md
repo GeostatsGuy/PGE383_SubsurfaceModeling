@@ -12,7 +12,7 @@ Come and join us as we learn more about subsurface data analytics, modeling and 
 
 * **The Lectures**: During the term I will record the lectures and place them on YouTube.
 
-* **The project**: There is a dataset for you to work with, or use your own.
+* **The Project**: There is a dataset for you to work with, or use your own.
 
 * **Updates**: check out our project updates as we work through this term-long subsurface modeling project.
 
