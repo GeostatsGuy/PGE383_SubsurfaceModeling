@@ -22,13 +22,13 @@ Come and join us as we learn more about subsurface data analytics, modeling and 
 
 * **Professional Communicaton**: class is conducted like a subsurface asset team with myself as the subsurface asset team lead. Practice professional communication, oral and written reporting.
 
-#### Here's how you get started:
+#### Getting Started
 
-* [Course Lectures on YouTube](https://www.youtube.com/watch?v=0g1g3gtHYSE&list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
+Here's how you get started?  Here's the resources begin your journey.
 
-I will also place the course hands-on demos in this repository:
+* **The Recorded Lectures** are available at [Course Lectures on YouTube](https://www.youtube.com/watch?v=0g1g3gtHYSE&list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
 
-* [Coure Workflows and Demonstrations GitHub](https://github.com/GeostatsGuy)
+* **The Hands-on Demos** are available in this repository [Coure Workflows and Demonstrations GitHub](https://github.com/GeostatsGuy) 
  
 The Python Jupyter workflow links are provided in the lecture videos. The workflows will come from my PythonNumericalDemos and ExcelNumericalDemos repositories.
 
