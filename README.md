@@ -9,17 +9,17 @@
 
 Come and join us as we learn more about subsurface data analytics, modeling and statistical / machine learning. 
 
-* The Lectures: During the term I will record the lectures and place them on YouTube.
+* **The Lectures**: During the term I will record the lectures and place them on YouTube.
 
-* The project: There is a dataset for you to work with, or use your own.
+* **The project**: There is a dataset for you to work with, or use your own.
 
-* Updates: check out our project updates as we work through this term-long subsurface modeling project.
+* **Updates**: check out our project updates as we work through this term-long subsurface modeling project.
 
-* Opensource: work in Jupyter Notebook with workflow development in Python.
+* **Opensource**: work in Jupyter Notebook with workflow development in Python.
 
-* GeostatsPy: GSLIB++ functionality in Python for great, efficient experiential learning.
+* **GeostatsPy**: GSLIB++ functionality in Python for great, efficient experiential learning.
 
-* Professional: class is conducted like a subsurface asset team with myself as the subsurface asset team lead. Practice professional communication, oral and written reporting.
+* **Professional Communicaton**: class is conducted like a subsurface asset team with myself as the subsurface asset team lead. Practice professional communication, oral and written reporting.
 
 Here's how you get started:
 
@@ -42,6 +42,12 @@ I will upload my and other student teams' updates as:
 * recorded oral presentation on YouTube.
 * update report in .pdf in this repository.
 
+Here's my first recorded oral and written update for basic univariate and spatial analysis of dataset 12:
+
+[Update 1, Univariate and Spatial - Oral Presentation](https://www.youtube.com/watch?v=88DNs2PF4_Q)
+
+[Update 1, Univariate and Spatial - Written Report](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/blob/master/Updates/Update_1_Pyrcz.pdf)
+
 #### Comments
 
 I hope you join us in my PGE 383: Subsurface Modeling class. We have about 40 graduate students from engineering and geoscience participating here at the University of Texas at Austin. The Jackson School of Geosciences offered a new classroom in their building after we outgrew our room in the Petroleum and Geosystems engineering department. I appreciate the excellent support from both the Hidebrand Department of Petroleum and Geosystems Engineering and the Jackson School of Geosciences.
@@ -52,7 +58,7 @@ I hope that this is helpful to those that want to learn more about subsurface mo
 
 * If you would like to partner and support my graduate student research and consortium drop me a line at mpyrcz@austin.utexas.edu.  My research combines data analytics, stochastic modeling and machine learning theory with practice to develop novel methods and workflows to add value. We are solving challenging subsurface problems!
 
-I hope this was helpful,
+I'm always happy to discuss,
 
 *Michael*
 
