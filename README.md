@@ -63,10 +63,21 @@ An example dataset, similar to the ones provided to the project teams in the cla
 
 2. **0_AI.csv** - 2D comma delimited array with acoustic impedance (kg/m2s*10^6) at 10 m cell resolution over the area of itnerest X [0,1000m] and Y [0,1000m].
 
-I will upload my and other student teams' updates as:
+#### Sharing the Regular Project Updates
 
-* recorded oral presentation on YouTube.
-* update report in .pdf in this repository.
+This class has no examination! No quizes! No multiple guess! Students will demonstrate their mastery through regular project updates (every two weeks). This includes short written (yes, PowerPoint is not enough) updates with:
+
+* Executive Summary
+* Workflow
+* Results
+* Recommendations
+
+They will also provide oral reports to the rest of the asset team. An oppornity for searching questions and consensus building for the team.
+
+Updates will continue to be shared as a we proceed:
+
+* recorded oral presentation on YouTube [Oral Updates](https://www.youtube.com/watch?v=0g1g3gtHYSE&list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
+* update report in .pdf in this repository [Written Updates](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/tree/master/Updates)
 
 Here's my first recorded oral and written update for basic univariate and spatial analysis of dataset 12:
 
