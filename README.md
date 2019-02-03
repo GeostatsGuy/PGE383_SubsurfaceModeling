@@ -49,17 +49,19 @@ Here's my first recorded oral and written update for basic univariate and spatia
 
 [Update 1, Univariate and Spatial - Written Report](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/blob/master/Updates/Update_1_Pyrcz.pdf)
 
+![alt text](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/blob/master/Updates/Update1_interpretation.JPG "Logo Title Text 1")
+
 Hands-on Demos for Experiential Learning
 
 * **Working with Pandas DataFrames for tabular data** [DataFrames Demo](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/PythonDataBasics_DataFrame.ipynb)
 
 * **Working with NumPy ndarrays for gridded data** [ndarrays Demo](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/PythonDataBasics_ndarrays.ipynb)
 
+* **Univariate Data Distributions** [Distributions Demo](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_datadistributions.ipynb)
 
+* **Plotting Spatial Data** [Spatial Data Demo](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_plottingdata.ipynb)
 
-![alt text](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/blob/master/Updates/Update1_interpretation.JPG "Logo Title Text 1")
-
-#### Comments
+#### Some Thoughts
 
 I hope you join us in my PGE 383: Subsurface Modeling class. We have about 40 graduate students from engineering and geoscience participating here at the University of Texas at Austin. The Jackson School of Geosciences offered a new classroom in their building after we outgrew our room in the Petroleum and Geosystems engineering department. I appreciate the excellent support from both the Hidebrand Department of Petroleum and Geosystems Engineering and the Jackson School of Geosciences.
 
