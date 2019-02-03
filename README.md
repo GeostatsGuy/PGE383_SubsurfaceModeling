@@ -89,7 +89,7 @@ Here's my first recorded oral and written update for basic univariate and spatia
 
 #### Where Are the Hands-on Demos?
 
-Hands-on Demos for Experiential Learning
+Hands-on demos for experiential learning are being added all the time. Here's some of them:
 
 * **Working with Pandas DataFrames for tabular data** [DataFrames Demo](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/PythonDataBasics_DataFrame.ipynb)
 
