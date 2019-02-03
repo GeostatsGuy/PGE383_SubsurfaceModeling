@@ -30,9 +30,11 @@ To get started, check out these course resources and begin your journey.
 
 * **The Hands-on Demos** are available in this repository [Coure Workflows and Demonstrations GitHub](https://github.com/GeostatsGuy) 
  
-The Python Jupyter workflow links are provided in the lecture videos. The workflows will come from my PythonNumericalDemos and ExcelNumericalDemos repositories.
+* **Project Updates**, written project updates available here [Written Updates](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/tree/master/Updates) and [Oral Updates](https://www.youtube.com/watch?v=0g1g3gtHYSE&list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4).   
+ 
+#### Where's Your Data?
 
-An example dataset, similar to the ones provided to the project teams is available in this repository.
+An example dataset, similar to the ones provided to the project teams in the class is available in this repository.
 
 1. **0_sample_data.csv** - comma delimited well data with X and Y coordinates (meters), Facies 0 and 1 (1 is sandstone and 0 interbedded sand and mudstone), Porosity (fraction), permeability as Perm (mDarcy) and acoustic impedance as AI (kg/m2s*10^6). 
 
@@ -51,6 +53,8 @@ Here's my first recorded oral and written update for basic univariate and spatia
 
 ![alt text](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/blob/master/Updates/Update1_interpretation.JPG "Logo Title Text 1")
 
+#### Where Are the Hands-on Demos?
+
 Hands-on Demos for Experiential Learning
 
 * **Working with Pandas DataFrames for tabular data** [DataFrames Demo](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/PythonDataBasics_DataFrame.ipynb)
@@ -61,7 +65,7 @@ Hands-on Demos for Experiential Learning
 
 * **Plotting Spatial Data** [Spatial Data Demo](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_plottingdata.ipynb)
 
-#### Some Thoughts
+#### This is Going to Be Fun
 
 I hope you join us in my PGE 383: Subsurface Modeling class. We have about 40 graduate students from engineering and geoscience participating here at the University of Texas at Austin. The Jackson School of Geosciences offered a new classroom in their building after we outgrew our room in the Petroleum and Geosystems engineering department. I appreciate the excellent support from both the Hidebrand Department of Petroleum and Geosystems Engineering and the Jackson School of Geosciences.
 
