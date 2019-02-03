@@ -34,9 +34,9 @@ The Python Jupyter workflow links are provided in the lecture videos. The workfl
 
 An example dataset, similar to the ones provided to the project teams is available in this repository.
 
-1. 0_sample_data.csv - comma delimited well data with X and Y coordinates (meters), Facies 0 and 1 (1 is sandstone and 0 interbedded sand and mudstone), Porosity (fraction), permeability as Perm (mDarcy) and acoustic impedance as AI (kg/m2s*10^6). 
+1. **0_sample_data.csv** - comma delimited well data with X and Y coordinates (meters), Facies 0 and 1 (1 is sandstone and 0 interbedded sand and mudstone), Porosity (fraction), permeability as Perm (mDarcy) and acoustic impedance as AI (kg/m2s*10^6). 
 
-2. 0_AI.csv - 2D comma delimited array with acoustic impedance (kg/m2s*10^6) at 10 m cell resolution over the area of itnerest X [0,1000m] and Y [0,1000m].
+2. **0_AI.csv** - 2D comma delimited array with acoustic impedance (kg/m2s*10^6) at 10 m cell resolution over the area of itnerest X [0,1000m] and Y [0,1000m].
 
 I will upload my and other student teams' updates as:
 
@@ -48,6 +48,9 @@ Here's my first recorded oral and written update for basic univariate and spatia
 [Update 1, Univariate and Spatial - Oral Presentation](https://www.youtube.com/watch?v=88DNs2PF4_Q)
 
 [Update 1, Univariate and Spatial - Written Report](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/blob/master/Updates/Update_1_Pyrcz.pdf)
+
+
+![alt text](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/blob/master/Updates/Update1_interpretation.JPG "Logo Title Text 1")
 
 #### Comments
 
