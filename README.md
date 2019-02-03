@@ -49,6 +49,13 @@ Here's my first recorded oral and written update for basic univariate and spatia
 
 [Update 1, Univariate and Spatial - Written Report](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/blob/master/Updates/Update_1_Pyrcz.pdf)
 
+Hands-on Demos for Experiential Learning
+
+* **Working with Pandas DataFrames for tabular data** [DataFrames Demo](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/PythonDataBasics_DataFrame.ipynb)
+
+* **Working with NumPy ndarrays for gridded data** [ndarrays Demo](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/PythonDataBasics_ndarrays.ipynb)
+
+
 
 ![alt text](https://github.com/GeostatsGuy/PGE383_SubsurfaceModeling/blob/master/Updates/Update1_interpretation.JPG "Logo Title Text 1")
 
