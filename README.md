@@ -1,8 +1,31 @@
 
 ## PGE 383: Subsurface Modeling Graduate Course
+Graduate class at the University of Texas at Austin, from the syllabus:
+
+*“You will get the opportunity to learn theory and practice geostatistical reservoir modeling, data analytics and machine learning in a simulated subsurface asset team. As a result, you will gain the practical skills to integrate and better impact reservoir modeling in any company dealing with spatial / subsurface datasets.”*
+
+#### Course Objectives:
+
+You will gain:
+
+1.	understanding of the role of reservoir modeling and the reservoir modeler within a subsurface asset development team.
+2.	expert knowledge of methods, workflows and decisions in reservoir modeling, and the theoretical and practical considerations, and limitations over the various stages:
+    a.	Spatial Data Analytics and Statistics
+    b.	Spatial Estimation and Simulation
+    c.	Spatial Machine Learning (brief)
+    d.	Uncertainty Characterization
+    e.	Decision Making 
+3.	Expert knowledge of the fundamental algorithms and workflows and the ability to build custom subsurface advanced workflows.
+4.	Understand current practice limitations and new opportunities for advancement of geostatistics.
+
+#### The Instructor:
 
 ### Michael Pyrcz, Associate Professor, University of Texas at Austin 
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
+
+With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in subsurface resource development. 
+
+For more about Michael check out these links:
 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
