@@ -105,9 +105,11 @@ I hope you join us in my PGE 383: Subsurface Modeling class. We have about 40 gr
 
 I hope that this is helpful to those that want to learn more about subsurface modeling, data analytics and machine learning. Students and working professionals are welcome to participate.
 
-* If you work for a company and would like me to visit for training, mentoring, project review, workflow design and consulting, I'd be happy to drop by and work with you! 
+* Want to invite me to visit your company for training, mentoring, project review, workflow design and consulting, I'd be happy to drop by and work with you! 
 
-* If you would like to partner and support my graduate student research and consortium drop me a line at mpyrcz@austin.utexas.edu.  My research combines data analytics, stochastic modeling and machine learning theory with practice to develop novel methods and workflows to add value. We are solving challenging subsurface problems!
+* Interested in partnering, supporting my graduate student research or my Subsurface Data Analytics and Machine Learning consortium (co-PIs including Profs. Foster, Torres-Verdin and van Oort)? My research combines data analytics, stochastic modeling and machine learning theory with practice to develop novel methods and workflows to add value. We are solving challenging subsurface problems!
+
+* I can be reached at mpyrcz@austin.utexas.edu.
 
 I'm always happy to discuss,
 
