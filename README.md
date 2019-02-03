@@ -103,6 +103,8 @@ Hands-on Demos for Experiential Learning
 
 I hope you join us in my PGE 383: Subsurface Modeling class. We have about 40 graduate students from engineering and geoscience participating here at the University of Texas at Austin. The Jackson School of Geosciences offered a new classroom in their building after we outgrew our room in the Petroleum and Geosystems engineering department. I appreciate the excellent support from both the Hidebrand Department of Petroleum and Geosystems Engineering and the Jackson School of Geosciences.
 
+#### Want to Work Together?
+
 I hope that this is helpful to those that want to learn more about subsurface modeling, data analytics and machine learning. Students and working professionals are welcome to participate.
 
 * Want to invite me to visit your company for training, mentoring, project review, workflow design and consulting, I'd be happy to drop by and work with you! 
