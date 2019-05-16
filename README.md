@@ -1,3 +1,6 @@
+<p>
+    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
+</p>
 
 ## PGE 383: Subsurface Modeling Graduate Course
 Graduate class at the University of Texas at Austin, from the syllabus:
